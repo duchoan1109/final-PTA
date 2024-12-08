@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../Downloads/spa.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>../../../Downloads/Shiba-Dog-Enjoying-a-Walk-in-a-Flower-Garden_2457834_wh1200.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>shopping-cart-icon-shopping-basket-on-transparent-background-free-png.png</file>
+    <file>shopping-cart-icon-shopping-basket-on-transparent-background-free-png.png</file>
+  </qresource>
+</RCC>
